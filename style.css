@@ -1,0 +1,66 @@
+body{
+    margin:0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+    background-color: bisque;
+}
+.web-heading{
+    text-align: center;
+    font-size: 40px;
+}
+.first-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    text-align: justify;
+}
+.half-width img{
+    width: 60%;
+    float: right;
+    margin-right: 10%;
+}
+.info{
+    margin: 4%;
+}
+.divition {
+
+    margin: 5%;
+    width: 300px;
+    height: 550px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: rgb(217, 240, 232);
+
+}
+.divition img{
+    width: 300px;
+    height: 200px;
+
+}
+.divition p{
+    padding: 10px;
+    text-align: justify;
+}
+.first-three{
+    display: flex;
+}
+.second-three{
+    display: flex;
+}
+p{
+    text-align: justify;
+}
+.link-button{
+    margin-top: 25px;
+    border-radius: 5px;
+    padding: 15px;
+    background-image: linear-gradient(blue, cyan);
+    text-decoration: none;
+    color: white;
+
+}
+.link-button:hover {
+    background-color: tomato;
+}
